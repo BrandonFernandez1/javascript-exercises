@@ -17,8 +17,5 @@ const sumAll = function(num1, num2) {
     return sum;
 };
 
-const sum = sumAll(10, [90,1]);
-console.log(sum);
-
 // Do not edit below this line
 module.exports = sumAll;
